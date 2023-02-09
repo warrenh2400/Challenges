@@ -2,11 +2,24 @@
 
 <html>
     <head>
-        <title>Example</title>
+        <title>About Me</title>
     </head>
     <body>
+        <h3>Intro</h3>
         <p>
-            This is an example of a coding challenge solution
+            Hello, my name is Warren Hu. I am Revature's February patch of student to become a Full Stacked Salesforce Developer. 
+           I am working currently working on Coding Challenges and building my Git respoitory.  
         </p>
+        <p>Hobbies</p>
+        <ol>
+        <li>Hiking trails</li>
+        <li>Working out at the gym</li>
+        <li>Traveling</li>
+        </ol>
+        
+        <p>Places to live</p>
+        <img src="https://images.unsplash.com/photo-1605216663800-d563ef404eef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        alt="Tulum, Quintana Roo, Mexico"/>
+
     </body>
 </html>
